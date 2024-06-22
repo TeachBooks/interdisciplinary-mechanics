@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Welcome to the Interdisciplinary Mechanics Book
+
+This book is for the Interdisciplinary Mechanics Module CIEM0000, Unit 2 at Civil Engineering and Geosciences, TU Delft.
 
 _Write book intro here. This is the first page the student will see when opening the url._
-
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
