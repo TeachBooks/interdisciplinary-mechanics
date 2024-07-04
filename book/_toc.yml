@@ -7,4 +7,6 @@ parts:
     - file: some_content/overview.md
       sections:
       - file: some_content/text_and_code.ipynb
+    - file: some_content/T01_Continuum_Mechanics.md
+    - file: some_content/T02_Stress_Strain.md
     - file: references.md
