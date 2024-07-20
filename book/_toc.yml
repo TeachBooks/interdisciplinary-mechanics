@@ -22,7 +22,7 @@ parts:
     chapters:
     - file: some_content/T08_NonDispersiveWaves.md
     - file: some_content/T09_DispersiveWaves.md
-  -caption: Diffusion Phenomena
+  - caption: Diffusion Phenomena
     chapters:
     - file: some_content/T10_Heat.md
   - caption: Amplitude Dependant Wave Phenomena
