@@ -2,30 +2,30 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Contents
-    chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-  - caption: Fundamental Equations and Reductions
-    chapters:
-    - file: some_content/T01_Continuum_Mechanics.md
-    - file: some_content/T02_Stress_Strain.md
-    - file: some_content/T03_3Dto1D.md
-    - file: some_content/T07_NavierStokes.md
-  - caption: Stationary Deformation and Flow
-    chapters:
-    - file: some_content/T04_DarcyLaw.md
-    - file: some_content/T05_FlowToWell.md
-    - file: some_content/T06_Rod_with_Elastic_Foundation.md
-  - caption: Linear Wave Phenomena
-    chapters:
-    - file: some_content/T08_NonDispersiveWaves.md
-    - file: some_content/T09_DispersiveWaves.md
-  -caption: Diffusion Phenomena
-    chapters:
-    - file: some_content/T10_Heat.md
-  - caption: Amplitude Dependant Wave Phenomena
+- caption: Contents
+  chapters:
+  - file: some_content/overview.md
+    sections:
+    - file: some_content/text_and_code.ipynb
+- caption: Fundamental Equations and Reductions
+  chapters:
+  - file: some_content/T01_Continuum_Mechanics.md
+  - file: some_content/T02_Stress_Strain.md
+  - file: some_content/T03_3Dto1D.md
+  - file: some_content/T07_NavierStokes.md
+- caption: Stationary Deformation and Flow
+  chapters:
+  - file: some_content/T04_DarcyLaw.md
+  - file: some_content/T05_FlowToWell.md
+  - file: some_content/T06_Rod_with_Elastic_Foundation.md
+- caption: Linear Wave Phenomena
+  chapters:
+  - file: some_content/T08_NonDispersiveWaves.md
+  - file: some_content/T09_DispersiveWaves.md
+-caption: Diffusion Phenomena
+  chapters:
+  - file: some_content/T10_Heat.md
+- caption: Amplitude Dependant Wave Phenomena
     chapters:
     - file: some_content/T12_TrafficFlow.md
     - file: some_content/T13_ConservationLaws.md
