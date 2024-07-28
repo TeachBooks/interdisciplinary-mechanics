@@ -18,6 +18,7 @@ parts:
     - file: some_content/T04_DarcyLaw.md
     - file: some_content/T05_FlowToWell.md
     - file: some_content/T06_Rod_with_Elastic_Foundation.md
+    - file: some_content/A01.md
   - caption: Linear Wave Phenomena
     chapters:
     - file: some_content/T08_NonDispersiveWaves.md
