@@ -22,7 +22,9 @@ parts:
   - caption: Linear Wave Phenomena
     chapters:
     - file: some_content/T08_NonDispersiveWaves.md
+    - file: some_content/A02.md
     - file: some_content/T09_DispersiveWaves.md
+    - file: some_content/A03.md
   - caption: Diffusion Phenomena
     chapters:
     - file: some_content/T10_Heat.md
