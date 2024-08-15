@@ -4,38 +4,38 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: content/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: content/text_and_code.ipynb
   - caption: Fundamental Equations and Reductions
     chapters:
-    - file: some_content/T01_Continuum_Mechanics.md
-    - file: some_content/T02_Stress_Strain.md
-    - file: some_content/T03_3Dto1D.md
-    - file: some_content/T07_NavierStokes.md
+    - file: content/T01_Continuum_Mechanics.md
+    - file: content/T02_Stress_Strain.md
+    - file: content/T03_3Dto1D.md
+    - file: content/T07_NavierStokes.md
   - caption: Stationary Deformation and Flow
     chapters:
-    - file: some_content/T04_DarcyLaw.md
-    - file: some_content/T05_FlowToWell.md
-    - file: some_content/T06_Rod_with_Elastic_Foundation.md
-    - file: some_content/A01.md
+    - file: content/T04_DarcyLaw.md
+    - file: content/T05_FlowToWell.md
+    - file: content/T06_Rod_with_Elastic_Foundation.md
+    - file: content/A01.md
   - caption: Linear Wave Phenomena
     chapters:
-    - file: some_content/T08_NonDispersiveWaves.md
-    - file: some_content/A02.md
-    - file: some_content/T09_DispersiveWaves.md
-    - file: some_content/A03.md
+    - file: content/T08_NonDispersiveWaves.md
+    - file: content/A02.md
+    - file: content/T09_DispersiveWaves.md
+    - file: content/A03.md
   - caption: Diffusion Phenomena
     chapters:
-    - file: some_content/T10_Heat.md
+    - file: content/T10_Heat.md
   - caption: Amplitude Dependant Wave Phenomena
     chapters:
-    - file: some_content/T12_TrafficFlow.md
-    - file: some_content/T13_ConservationLaws.md
-    - file: some_content/T14_System_of_Conservation_Laws.md
-    - file: some_content/A05/A05.md
+    - file: content/T12_TrafficFlow.md
+    - file: content/T13_ConservationLaws.md
+    - file: content/T14_System_of_Conservation_Laws.md
+    - file: content/A05/A05.md
       sections:
-      - file: some_content/A05/A05_1.md
-      - file: some_content/A05/A05_2.md
-      - file: some_content/A05/A05_3.md
+      - file: content/A05/A05_1.md
+      - file: content/A05/A05_2.md
+      - file: content/A05/A05_3.md
     - file: references.md
