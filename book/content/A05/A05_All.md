@@ -7,7 +7,7 @@ This assignment aims to apply the "wave-based" methods to solve some classical r
 ## Section 1: The "Fancy" race
 We are going to organize a race between cars and water in a river. At time $t <0$, both flows are packed between $x = -200 \mathrm{m}$ and $x = 0 \mathrm{m}$ and hold by gates/traffic signals. We remove the gates and turn traffic signals into green at time $t = 0$. Let's see what is happening!
 
-```{figure} ../figures/Assignment_5/A5_1.png
+```{figure} ../../figures/Assignment_5/A5_1.png
 ---
 width: 60%
 name: A5_Figure_1
@@ -18,7 +18,7 @@ Initial boundary conditions for the "fancy" race. (a) traffic flow (b) river flo
 
 {numref}`Figure {number} <A5_Figure_1>` represents the initial boundary conditions for both traffic (a) and river (b) flows. They define two Riemann problems at location $x = -200 \mathrm{m}$ and $x = 0 \mathrm{m}$. We are going to first focus on the front of the race, i.e., the Riemann problem at $x = 0 \mathrm{m}$. Our first objective is to draw the space-time diagram in both cases. {numref}`Figure {number} <A5_Figure_2>` provides the fundamental diagram of the traffic flow.
 
-```{figure} ../figures/Assignment_5/A5_2.png
+```{figure} ../../figures/Assignment_5/A5_2.png
 ---
 width: 60%
 name: A5_Figure_2
@@ -98,7 +98,7 @@ Draw the final space-time diagram with all the relevant information.
 :class: dropdown
 Your space-time diagram should match the following:
 
-```{figure} ../figures/Assignment_5/A5_3.png
+```{figure} ../../figures/Assignment_5/A5_3.png
 ---
 width: 50%
 name: A5_Figure_3
@@ -446,7 +446,7 @@ We need to determine the two eigenvalues and the related eigenvectors for the st
 
 To determine the intermediate state, one should first draw the line starting from $U_l$ with a directed vector $w_1$ and then draw the line starting from $U_r$ with a directed vector $w_2$. The intersection between these two lines give the intermediate state, here $U_m = (0.0024, -0.0017)$.
 
-```{figure} ../figures/Assignment_5/A5_6.png
+```{figure} ../../figures/Assignment_5/A5_6.png
 ---
 width: 100%
 name: A5_Figure_6
